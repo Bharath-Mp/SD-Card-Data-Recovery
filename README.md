@@ -1,5 +1,3 @@
-# SD-Card-Data-Recovery
-Real World - Crucial Data Recovery
 
 # SD Card Data Recovery — Recovering ~92% of Data from a Failing 32 GB SD Card
 
